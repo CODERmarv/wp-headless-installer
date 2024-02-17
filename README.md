@@ -2,4 +2,4 @@
 
 A setup wizard that guides the user in installing Headless WP with any chosen framework[ReactJS, VUE etc].
 
-<Files will be uploaded soon>
+FILES TO BE UPLOADED SOON WITH THE INSTALLATION PROCEDURES
